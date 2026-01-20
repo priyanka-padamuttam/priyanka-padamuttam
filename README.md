@@ -1,16 +1,27 @@
-## Hi there 👋
+# 😄 Sentiment Analyzer
 
-<!--
-**priyanka-padamuttam/priyanka-padamuttam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Flask](https://img.shields.io/badge/Flask-2.3-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
-Here are some ideas to get you started:
+A **Python-based Sentiment Analysis project** that classifies text as **Positive**, **Negative**, or **Neutral** using Natural Language Processing (NLP) with **TextBlob**. Perfect for analyzing reviews, tweets, and comments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 Features
+
+- ✅ Terminal and web app versions  
+- ✅ Lightweight and beginner-friendly  
+- ✅ Classifies sentiment as Positive, Negative, or Neutral  
+- ✅ Easy to extend with advanced NLP models  
+
+---
+
+## 🛠 Installation & Setup
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/priyanka-padamuttam/sentiment-analyzer.git
+cd sentiment-analyzer
+
+
