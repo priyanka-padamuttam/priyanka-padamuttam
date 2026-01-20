@@ -1,3 +1,12 @@
+## 🎓 Certifications & Digital Badges
+
+[![Generative AI](https://img.shields.io/badge/Google-Generative_AI-blue?logo=google)]([PASTE_BADGE_LINK_HERE](https://www.skills.google/public_profiles/a5ad0cde-56c9-40c1-ab36-975fb8884ed2/badges/20251355))
+
+[![Large Language Models](https://img.shields.io/badge/Google-Large_Language_Models-orange?logo=google)]([PASTE_BADGE_LINK_HERE](https://www.skills.google/public_profiles/a5ad0cde-56c9-40c1-ab36-975fb8884ed2/badges/20466327))
+
+[![Responsible AI](https://img.shields.io/badge/Google-Responsible_AI-green?logo=google)]([PASTE_BADGE_LINK_HERE](https://www.skills.google/public_profiles/a5ad0cde-56c9-40c1-ab36-975fb8884ed2/badges/20488594))
+
+[![Vertex AI Prompt Design](https://img.shields.io/badge/Google-Vertex_AI-purple?logo=google)]([PASTE_BADGE_LINK_HERE](https://www.skills.google/public_profiles/a5ad0cde-56c9-40c1-ab36-975fb8884ed2/badges/20608005))
 # 😄 Sentiment Analyzer
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
